@@ -1,0 +1,36 @@
+C:\Users\informatica\Desktop\Validaciones\Validaciones\bin\Debug\Validaciones.exe.config
+C:\Users\informatica\Desktop\Validaciones\Validaciones\bin\Debug\Validaciones.exe
+C:\Users\informatica\Desktop\Validaciones\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\informatica\Desktop\Validaciones\Validaciones\obj\Debug\Validaciones.csprojResolveAssemblyReference.cache
+C:\Users\informatica\Desktop\Validaciones\Validaciones\obj\Debug\Validaciones.RegistroPS.resources
+C:\Users\informatica\Desktop\Validaciones\Validaciones\obj\Debug\Validaciones.Properties.Resources.resources
+C:\Users\informatica\Desktop\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.GenerateResource.Cache
+C:\Users\informatica\Desktop\Validaciones\Validaciones\obj\Debug\Validaciones.exe
+C:\Users\informatica\Desktop\Validaciones\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\admin\Downloads\Validaciones-20180517T133416Z-001\Validaciones\Validaciones\bin\Debug\Validaciones.exe.config
+C:\Users\admin\Downloads\Validaciones-20180517T133416Z-001\Validaciones\Validaciones\obj\Debug\Validaciones.exe
+C:\Users\admin\Downloads\Validaciones-20180517T133416Z-001\Validaciones\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\admin\Downloads\Validaciones-20180517T133416Z-001\Validaciones\Validaciones\bin\Debug\Validaciones.exe
+C:\Users\admin\Downloads\Validaciones-20180517T133416Z-001\Validaciones\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\admin\Downloads\Validaciones-20180517T133416Z-001\Validaciones\Validaciones\obj\Debug\Validaciones.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Validaciones-20180517T133416Z-001\Validaciones\Validaciones\obj\Debug\Validaciones.RegistroPS.resources
+C:\Users\admin\Downloads\Validaciones-20180517T133416Z-001\Validaciones\Validaciones\obj\Debug\Validaciones.Properties.Resources.resources
+C:\Users\admin\Downloads\Validaciones-20180517T133416Z-001\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Validaciones\Validaciones\bin\Debug\Validaciones.exe.config
+C:\Users\admin\Desktop\Validaciones\Validaciones\obj\Debug\Validaciones.exe
+C:\Users\admin\Desktop\Validaciones\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Estudiante\Downloads\Validaciones (1)-20180521T125415Z-001\Validaciones (1)\Validaciones\bin\Debug\Validaciones.exe.config
+C:\Users\Estudiante\Downloads\Validaciones (1)-20180521T125415Z-001\Validaciones (1)\Validaciones\obj\Debug\Validaciones.exe
+C:\Users\Estudiante\Downloads\Validaciones (1)-20180521T125415Z-001\Validaciones (1)\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Estudiante\Downloads\Validaciones (1)-20180521T125415Z-001\Validaciones (1)\Validaciones\bin\Debug\Validaciones.exe
+C:\Users\Estudiante\Downloads\Validaciones (1)-20180521T125415Z-001\Validaciones (1)\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\Estudiante\Downloads\Validaciones (1)-20180521T125415Z-001\Validaciones (1)\Validaciones\obj\Debug\Validaciones.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\Validaciones (1)-20180521T125415Z-001\Validaciones (1)\Validaciones\obj\Debug\Validaciones.RegistroPS.resources
+C:\Users\Estudiante\Downloads\Validaciones (1)-20180521T125415Z-001\Validaciones (1)\Validaciones\obj\Debug\Validaciones.Properties.Resources.resources
+C:\Users\Estudiante\Downloads\Validaciones (1)-20180521T125415Z-001\Validaciones (1)\Validaciones\obj\Debug\Validaciones.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\Validaciones (1)\Validaciones\bin\Debug\Validaciones.exe.config
+C:\Users\Estudiante\Desktop\Validaciones (1)\Validaciones\obj\Debug\Validaciones.exe
+C:\Users\Estudiante\Desktop\Validaciones (1)\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Estudiante\Desktop\Validaciones Michelle\Validaciones\bin\Debug\Validaciones.exe.config
+C:\Users\Estudiante\Desktop\Validaciones Michelle\Validaciones\obj\Debug\Validaciones.exe
+C:\Users\Estudiante\Desktop\Validaciones Michelle\Validaciones\obj\Debug\Validaciones.pdb
